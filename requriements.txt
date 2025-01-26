@@ -1,0 +1,11 @@
+openai
+python-dotenv
+yfinance
+packaging
+duckduckgo-search # for websearch
+fastapi
+uvicorn
+groq
+phidata
+openai
+deepseek
