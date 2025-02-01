@@ -9,3 +9,8 @@ groq
 phidata
 openai
 deepseek
+streamlit
+langchain_core
+langchain_community
+langchain_ollama
+matplotlib

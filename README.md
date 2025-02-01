@@ -10,3 +10,8 @@ install the required libraries/dependencies
 ```
 pip install -r requirements.txt
 ```
+
+to start the streamlit page: 
+```
+streamlit run app.py
+```
